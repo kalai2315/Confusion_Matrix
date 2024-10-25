@@ -75,7 +75,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
 
-# Assuming y_true and y_pred are the actual and predicted labels
+Assuming y_true and y_pred are the actual and predicted labels
 
 cm = confusion_matrix(y_true, y_pred)
 
